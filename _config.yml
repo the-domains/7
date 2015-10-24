@@ -1,7 +1,24 @@
+name: '7'
+favicon: null
 layout_spectrum: 0.6714529
 typography_spectrum: 0.3309886
+title: '777'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.337224
-  lightness: 0.9519053
+  brandColors: []
   brandStrength: 0.8995566
+  lightness: 0.9519053
+  saturation: 0.337224
   rhythmicContrast: 0.06451759
+purpose: []
