@@ -1,24 +1,24 @@
-name: '7'
-favicon: null
-layout_spectrum: 0.54024
 typography_spectrum: 0.3309886
-title: '777'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.5
   lightness: 0.9519053
   saturation: 0.337224
   rhythmicContrast: 0.06451759
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.54024
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: '7'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 7 Days to...
 purpose: []
